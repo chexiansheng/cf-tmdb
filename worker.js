@@ -278,9 +278,9 @@ function getFake404HTML() {
         console.log('  • Health: /health, /ping');
         console.log('  • Admin: /admin/status (requires API key)');
         console.log('%cAPI Key Methods:', 'color: #17a2b8;');
-        console.log('  • Header: X-API-Key: your_api_key');
-        console.log('  • URL Param: ?api_key=your_api_key');
-        console.log('  • URL Param: ?key=your_api_key');
+        console.log('  • Header: X-API-Key: f595ba30bc6ba57ee98b9eb0b94e96c6');
+        console.log('  • URL Param: ?api_key=f595ba30bc6ba57ee98b9eb0b94e96c6');
+        console.log('  • URL Param: ?key=f595ba30bc6ba57ee98b9eb0b94e96c6');
         console.log('%cFeatures: Cache, Compression, Security, Geo-blocking', 'color: #28a745;');
         console.log('%c⚠️ Disguised as 404 for security', 'color: #ffc107;');
 
